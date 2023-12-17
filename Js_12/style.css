@@ -1,0 +1,50 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div1{
+    width: 15vw;
+    height: 15vw;
+    background-color: cadetblue;
+}
+.div2{
+    width: 10vw;
+    height: 10vw;
+    background-color: lawngreen;
+}
+.div3{
+    width: 5vw;
+    height: 5vw;
+    background-color: magenta;
+}
+.brown_color{
+    background-color: brown;
+}
+.div{
+ width:10vw;
+ height:10vw;
+ border: 1px solid black;
+}
+.green{
+    background-color: green;
+}
+.red{
+    background-color: red;
+}
+div{
+    width: 5vw;
+    height: 5vw;
+}
+.p{
+width: 100vw;
+height: 100vw;
+display: flex;
+ flex-direction: row;
+}
